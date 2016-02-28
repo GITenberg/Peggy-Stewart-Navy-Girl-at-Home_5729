@@ -1,0 +1,25 @@
+_repo: Peggy-Stewart-Navy-Girl-at-Home_5729
+creator:
+  author:
+    agent_name: Jackson, Gabrielle E. (Gabrielle Emilie)
+    birthdate: 1861
+    gutenberg_agent_id: '1855'
+    url: http://www.gutenberg.org/2009/agents/1855
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maryland -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children of military personnel -- Juvenile fiction'
+- !lcsh 'United States Naval Academy -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+title: Peggy Stewart, Navy Girl, at Home
+url: http://www.gutenberg.org/ebooks/5729
