@@ -1,5 +1,5 @@
 _repo: Peggy-Stewart-Navy-Girl-at-Home_5729
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Children of military personnel -- Juvenile fiction'
 - !lcsh 'United States Naval Academy -- Juvenile fiction'
 - !lcsh 'Young women -- Juvenile fiction'
+- GITenberg
 title: Peggy Stewart, Navy Girl, at Home
 url: http://www.gutenberg.org/ebooks/5729
